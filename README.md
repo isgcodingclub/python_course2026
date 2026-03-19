@@ -5,5 +5,5 @@
   <tr><td>2</td><td>Floats, integers and mathematical operations</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Python_lesson2_2026.ipynb">Link to lesson 2</a></td><td></td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Homework_lesson_2.ipynb">Homework lesson 2</a></td><td></td><td></td></tr>
   <tr><td>3</td><td>Lists</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson3_lists_2026.ipynb">Link to Lesson 3</a></td>
     <td></td><td><a href ="https://github.com/isgcodingclub/python_course2026/blob/main/Lesson_3_homework_2026.ipynb">Homework lesson 3</a></td><td></td><td></td></tr>
-  <tr><td>4</td><td>Dictionaries</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson4_2026.ipynb">Link to lessoon 4</a></td><td></td></tr>
+  <tr><td>4</td><td>Dictionaries</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson4_2026.ipynb">Link to lessoon 4</a></td><td></td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson_4_homework2026.ipynb">Link to Homework lesson 4</a></td></tr>
 </table>
