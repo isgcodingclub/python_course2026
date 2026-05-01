@@ -8,4 +8,4 @@
   <tr><td>4</td><td>Dictionaries</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson4_2026.ipynb">Link to lessoon 4</a></td><td></td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson_4_homework2026.ipynb">Link to Homework lesson 4</a></td><td></td><td></td></tr>
 <tr><td>5</td><td>Sets</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Python2026_lesson5.ipynb">Link to lesson 5</a></td><td></td><td></td><td></td><td></td></tr>
 </table>
-<p> 📖📚🕯️Link to the beginners python book you can download: <a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Automate%20the%20Boring%20Stuff%20with%20Python.pdf">Automating the noring stuff </a></p>
+<p> 📖📚🕯️Link to the beginners python book you can download: <a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Automate%20the%20Boring%20Stuff%20with%20Python.pdf">Automating the boring stuff </a></p>
