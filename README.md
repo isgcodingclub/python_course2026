@@ -9,6 +9,6 @@
 <tr><td>5</td><td>Sets</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Python2026_lesson5.ipynb">Link to lesson 5</a></td><td></td><td></td><td></td><td></td></tr>
 </tr>
 <tr><td>6</td><td>Input statements, If statements and booleans</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson6_2026_ifs.ipynb">Link to lessoon 6</a></td><td></td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson6_homework_2026.ipynb">Link to Homework lesson 6</a></td><td></td><td></td></tr>
-<tr><td>7</td><td>Functional programming</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson5_2026_functions_incomplete.ipynb">Link to lesson 7</a></td></td><td></td></tr>
+<tr><td>7</td><td>Functional programming</td><td><a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Lesson5_2026_functions_incomplete.ipynb">Link to lesson 7</a></td></td><td></td><td></td><td><td></td></td></tr>
 </table>
 <p> 📖📚🕯️Link to the beginners python book you can download: <a href = "https://github.com/isgcodingclub/python_course2026/blob/main/Automate%20the%20Boring%20Stuff%20with%20Python.pdf">Automating the boring stuff </a></p>
